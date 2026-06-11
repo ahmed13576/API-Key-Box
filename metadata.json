@@ -1,0 +1,6 @@
+{
+  "name": "API Key Vault",
+  "description": "Secure, on-device storage for LLM and MCP API keys with intelligent auto-discovery of base URLs and endpoints using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
